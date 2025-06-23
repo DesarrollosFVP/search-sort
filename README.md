@@ -94,7 +94,7 @@ La experiencia también permitió practicar buenas prácticas de desarrollo: sep
 ## 📎 Documentación Adicional
 
 - [📄 Trabajo Práctico en PDF](./TRABAJO%20PRÁCTICO%20INTEGRADOR.pdf)  
-- [📹 Video Explicativo del Proyecto](#) *()*
+- [📹 Video Explicativo del Proyecto](#) *(https://github.com/RodrigoAguero91/Proyecto-Integrador-AYSO)*
 
 ---
 
